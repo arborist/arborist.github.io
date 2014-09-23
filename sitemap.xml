@@ -2,17 +2,25 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
+  <url>
+    <loc>http://arborist.github.io/blog/2014/09/23/first-post/</loc>
+    
+    <lastmod>2014-09-23T20:49:09+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://arborist.github.io/</loc>
-    <lastmod>2014-09-23T20:41:29+02:00</lastmod>
+    <lastmod>2014-09-23T23:14:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://arborist.github.io/blog/archives/</loc>
-    <lastmod>2014-09-23T20:41:29+02:00</lastmod>
+    <lastmod>2014-09-23T23:14:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
